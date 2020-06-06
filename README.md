@@ -1,6 +1,6 @@
 # _What Excites Kiki_
 
-#### _practice project on creating a webpage, 06.06.20_
+#### _Practice project on creating a webpage, 06.06.20_
 
 #### By _**Keala Young**_
 
@@ -10,11 +10,7 @@ _This is my first webpage I ever created. It is a personal favorites list. Mine 
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Clone this repository_
 
 ## Known Bugs
 
@@ -32,6 +28,6 @@ Under "travel", Croatia has a clickable link attached
 
 ### License
 
-**Licensed under the MIT license. 
+**Licensed under the MIT license.** 
 
 Copyright (c) 2020 **_Keala Young_**
